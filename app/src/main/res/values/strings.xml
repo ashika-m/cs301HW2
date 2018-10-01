@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework2 CS301</string>
+    <string-array name="hair_styles">
+        <item>Short Hair</item>
+        <item>Medium Hair</item>
+        <item>Long Hair</item>
+    </string-array>
+</resources>
